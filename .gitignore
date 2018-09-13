@@ -1,0 +1,5 @@
+/build/
+/RentWeb-war/build/
+/RentWeb-war/dist/
+/RentWeb-ejb/dist/
+/RentWeb-ejb/build/
